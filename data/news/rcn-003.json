@@ -1,0 +1,84 @@
+{
+  "id": "rcn-003",
+  "section": {
+    "name": "Cundinamarca",
+    "url": "/colombia",
+    "about": ""
+  },
+  "author": {
+    "name": "Noticias RCN",
+    "url": "",
+    "image": ""
+  },
+  "title": "Explosión en mina de carbón de Sutatausa deja un muerto y varios trabajadores atrapados",
+  "description": "Un mes después de una emergencia que cobró la vida de nueve trabajadores, una nueva explosión se registró en un socavón.",
+  "url": "/colombia/explosion-en-mina-de-carbon-de-sutatausa/rcn-003/story/",
+  "image": {
+    "url": "http://localhost:3000/static/images/rcn-003.jpg",
+    "caption": "Foto: Noticias RCN",
+    "title": "Explosión en mina de carbón de Sutatausa"
+  },
+  "restriction": "free",
+  "subtype": "normal",
+  "template": "default",
+  "is_breaking": false,
+  "gallery": null,
+  "seo_text": "",
+  "publish_date": "2026-06-04T21:15:00Z",
+  "display_date": "2026-06-04T21:15:00Z",
+  "last_updated_date": "2026-06-04T21:15:00Z",
+  "tags": [],
+  "content_elements": [
+    {
+      "type": "text",
+      "content": "Una nueva emergencia minera sacudió al municipio de Sutatausa, en Cundinamarca, donde una explosión al interior de una mina de carbón dejó una víctima mortal, un trabajador rescatado con vida y varios mineros atrapados."
+    },
+    {
+      "type": "text",
+      "content": "La situación se registró en la vereda Peñas del Boquerón, una zona que apenas comienza a recuperarse del impacto causado por otra tragedia ocurrida hace un mes."
+    },
+    {
+      "type": "header",
+      "content": "<h2>Explosión por metano en mina de carbón en Sutatausa</h2>"
+    },
+    {
+      "type": "image",
+      "url": "http://localhost:3000/static/images/rcn-003.jpg",
+      "content": "Foto: Noticias RCN",
+      "caption": "Foto: Noticias RCN"
+    },
+    {
+      "type": "text",
+      "content": "La emergencia se produjo en la mina de carbón San Antonio III. De acuerdo con la información entregada por las autoridades, hacia las dos de la tarde se escuchó un fuerte estruendo."
+    },
+    {
+      "type": "text",
+      "content": "Desde distintos puntos del sector se observó una columna de humo y polvo que salía de la zona de la mina, una señal que confirmó la magnitud de lo ocurrido."
+    },
+    {
+      "type": "text",
+      "content": "Los primeros reportes indican que la explosión habría sido provocada por una acumulación de metano al interior del socavón."
+    },
+    {
+      "type": "header",
+      "content": "<h2>Un minero muerto, uno rescatado y cuatro más atrapados</h2>"
+    },
+    {
+      "type": "text",
+      "content": "El accidente ocurrió apenas un mes después de otra emergencia minera registrada en el mismo sector de Sutatausa."
+    },
+    {
+      "type": "text",
+      "content": "Las autoridades confirmaron la muerte de un minero, un sobreviviente y otros cuatro trabajadores atrapados dentro de la mina."
+    },
+    {
+      "type": "text",
+      "content": "Mientras continúan las operaciones de rescate y verificación, las autoridades mantienen el monitoreo permanente de la situación."
+    }
+  ],
+  "media_video": null,
+  "media_gallery": null,
+  "display_audio_player": false,
+  "components": [],
+  "content_urls": []
+}

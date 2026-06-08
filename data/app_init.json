@@ -1,0 +1,193 @@
+{
+  "app_menu": [
+    {
+      "menu_id": "noticias",
+      "name": "Noticias",
+      "item_menu_list": [
+        {
+          "item_name": "Colombia",
+          "item_url": "/colombia",
+          "type": "section"
+        },
+        {
+          "item_name": "Mundo",
+          "item_url": "/mundo",
+          "type": "section"
+        },
+        {
+          "item_name": "Política",
+          "item_url": "/politica",
+          "type": "section"
+        },
+        {
+          "item_name": "Deportes",
+          "item_url": "/deportes",
+          "type": "section"
+        },
+        {
+          "item_name": "Economía",
+          "item_url": "/economia",
+          "type": "section"
+        }
+      ],
+      "icon": "",
+      "is_active": true
+    }
+  ],
+  "app_config": {
+    "show_subcription": false,
+    "show_subcription_ios": false,
+    "show_sala_plus": false,
+    "show_menu_podcast": false,
+    "show_menu_epaper": false,
+    "url_suscription": "",
+    "premium_identifier": "",
+    "has_subscription": false,
+    "has_subscription_ios": false,
+    "show_assistant": false,
+    "has_complements_epaper": false,
+    "enable_login": false,
+    "theme_modes": [
+      {
+        "mode": "light",
+        "fonts": {
+          "heading": {
+            "family": "Arial, sans-serif",
+            "weight": "bold"
+          },
+          "body": {
+            "family": "Arial, sans-serif",
+            "weight": "normal"
+          },
+          "title": {
+            "family": "Arial, sans-serif",
+            "weight": "bold"
+          },
+          "default": {
+            "family": "Arial, sans-serif",
+            "weight": "normal"
+          }
+        },
+        "colors": {
+          "bgcolor-app": "#FFFFFF",
+          "color-author-opinion": "#000000",
+          "text": "#000000",
+          "primary-color": "#E30613",
+          "bgcolor-header": "#E30613"
+        },
+        "styles": {
+          "css": "body { background-color: #ffffff; color: #000000; }"
+        },
+        "logos": {
+  "logo_loader": "http://localhost:3000/static/logos/rcn-logo.jpeg",
+  "logo_loader_bg": "http://localhost:3000/static/logos/rcn-logo.jpeg",
+  "logo_menu": "http://localhost:3000/static/logos/rcn-logo.jpeg",
+  "logo": "http://localhost:3000/static/logos/rcn-logo.jpeg"
+}
+      },
+      {
+        "mode": "dark",
+        "fonts": {
+          "heading": {
+            "family": "Arial, sans-serif",
+            "weight": "bold"
+          },
+          "body": {
+            "family": "Arial, sans-serif",
+            "weight": "normal"
+          },
+          "title": {
+            "family": "Arial, sans-serif",
+            "weight": "bold"
+          },
+          "default": {
+            "family": "Arial, sans-serif",
+            "weight": "normal"
+          }
+        },
+        "colors": {
+          "bgcolor-app": "#000000",
+          "color-author-opinion": "#FFFFFF",
+          "text": "#FFFFFF",
+          "primary-color": "#0033A0",
+          "bgcolor-header": "#0033A0"
+        },
+        "styles": {
+          "css": "body { background-color: #000000; color: #ffffff; }"
+        },
+        "logos": {
+          "logo_loader": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Noticias_RCN_logo.svg/512px-Noticias_RCN_logo.svg.png",
+          "logo_loader_bg": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Noticias_RCN_logo.svg/512px-Noticias_RCN_logo.svg.png",
+          "logo_menu": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Noticias_RCN_logo.svg/512px-Noticias_RCN_logo.svg.png",
+          "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Noticias_RCN_logo.svg/512px-Noticias_RCN_logo.svg.png"
+        }
+      }
+    ],
+    "legal_documents": []
+  },
+  "pages": {
+    "home": {
+      "components": [
+        {
+          "identifier": "rcn-featured",
+          "component_type": "newslist",
+          "component_design": "home-news-featured-fullimage"
+        },
+        {
+          "identifier": "rcn-latest",
+          "component_type": "newslist",
+          "component_design": "home-news-list-timeline"
+        },
+        {
+          "identifier": "rcn-colombia",
+          "component_type": "newslist",
+          "component_design": "home-news-list-vertical-intercalated"
+        }
+      ]
+    }
+  },
+  "services": [
+    {
+      "service": "tts",
+      "provider": "tts",
+      "is_active": false,
+      "setting_service": {}
+    },
+    {
+      "service": "epaper",
+      "provider": "lambda_rpa",
+      "is_active": false,
+      "setting_service": {}
+    },
+    {
+      "service": "podcast",
+      "provider": "acast",
+      "is_active": false,
+      "setting_service": {}
+    },
+    {
+      "service": "user",
+      "provider": "piano",
+      "is_active": false,
+      "setting_service": {}
+    },
+    {
+      "service": "newsletter",
+      "provider": "newsletter",
+      "is_active": false,
+      "setting_service": {}
+    },
+    {
+      "service": "notification",
+      "provider": "firebase",
+      "is_active": false,
+      "setting_service": {}
+    },
+    {
+      "service": "payment",
+      "provider": "google",
+      "is_active": false,
+      "setting_service": {}
+    }
+  ]
+}

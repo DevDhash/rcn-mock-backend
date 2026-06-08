@@ -1,0 +1,100 @@
+{
+  "identifier": "rcn-colombia",
+  "component_type": "newslist",
+  "component_data": {
+    "name": "Colombia",
+    "type": "manual",
+    "collection": null,
+    "is_active": true,
+    "view_more": null,
+    "news_list": [
+      {
+        "id": "rcn-001",
+        "section": {
+          "name": "Soacha",
+          "url": "/colombia",
+          "about": ""
+        },
+        "author": {
+          "name": "Valentina Bernal",
+          "url": "",
+          "image": ""
+        },
+        "title": "VIDEO | Fuerte olor permitió hallar un cuerpo en avanzado estado de descomposición en Soacha",
+        "description": "Bomberos tuvieron que realizar una apertura forzada del inmueble tras la alerta.",
+        "url": "/colombia/fuerte-olor-permitio-hallar-un-cuerpo-en-soacha/rcn-001/story/",
+        "image": {
+          "url": "http://localhost:3000/static/images/rcn-001.jpg",
+          "caption": "Foto: Noticias RCN",
+          "title": "Hallan cuerpo en estado de descomposición en Soacha"
+        },
+        "restriction": "free",
+        "subtype": "normal",
+        "template": "default",
+        "is_breaking": false,
+        "gallery": null,
+        "seo_text": "",
+        "publish_date": "2026-06-05T07:10:00Z",
+        "additional_fields": {}
+      },
+      {
+        "id": "rcn-002",
+        "section": {
+          "name": "Fiscalía General de la Nación",
+          "url": "/colombia",
+          "about": ""
+        },
+        "author": {
+          "name": "Noticias RCN",
+          "url": "",
+          "image": ""
+        },
+        "title": "Fiscalía citó a Blessd a audiencia de imputación por presunto secuestro extorsivo",
+        "description": "La audiencia de imputación con medida de aseguramiento está programada para el próximo martes 9 de junio.",
+        "url": "/colombia/fiscalia-cito-a-blessd-a-audiencia-de-imputacion/rcn-002/story/",
+        "image": {
+          "url": "http://localhost:3000/static/images/rcn-002.jpg",
+          "caption": "Foto: AFP",
+          "title": "Fiscalía citó a Blessd a audiencia de imputación"
+        },
+        "restriction": "free",
+        "subtype": "normal",
+        "template": "default",
+        "is_breaking": false,
+        "gallery": null,
+        "seo_text": "",
+        "publish_date": "2026-06-04T23:03:00Z",
+        "additional_fields": {}
+      },
+      {
+        "id": "rcn-003",
+        "section": {
+          "name": "Cundinamarca",
+          "url": "/colombia",
+          "about": ""
+        },
+        "author": {
+          "name": "Noticias RCN",
+          "url": "",
+          "image": ""
+        },
+        "title": "Explosión en mina de carbón de Sutatausa deja un muerto y varios trabajadores atrapados",
+        "description": "Un mes después de una emergencia que cobró la vida de nueve trabajadores, una nueva explosión se registró en un socavón.",
+        "url": "/colombia/explosion-en-mina-de-carbon-de-sutatausa-deja-un-muerto/rcn-003/story/",
+        "image": {
+          "url": "http://localhost:3000/static/images/rcn-003.jpg",
+          "caption": "Foto: Noticias RCN",
+          "title": "Explosión en mina de carbón de Sutatausa"
+        },
+        "restriction": "free",
+        "subtype": "normal",
+        "template": "default",
+        "is_breaking": false,
+        "gallery": null,
+        "seo_text": "",
+        "publish_date": "2026-06-04T21:15:00Z",
+        "additional_fields": {}
+      }
+    ]
+  }
+}

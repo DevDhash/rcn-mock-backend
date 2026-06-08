@@ -1,0 +1,42 @@
+{
+  "identifier": "rcn-featured",
+  "component_type": "newslist",
+  "component_data": {
+    "name": "Principal",
+    "type": "manual",
+    "collection": null,
+    "is_active": true,
+    "view_more": null,
+    "news_list": [
+      {
+        "id": "rcn-001",
+        "section": {
+          "name": "Soacha",
+          "url": "/colombia",
+          "about": ""
+        },
+        "author": {
+          "name": "Valentina Bernal",
+          "url": "",
+          "image": ""
+        },
+        "title": "VIDEO | Fuerte olor permitió hallar un cuerpo en avanzado estado de descomposición en Soacha",
+        "description": "Bomberos tuvieron que realizar una apertura forzada del inmueble tras la alerta.",
+        "url": "/colombia/fuerte-olor-permitio-hallar-un-cuerpo-en-soacha/rcn-001/story/",
+        "image": {
+          "url": "http://localhost:3000/static/images/rcn-001.jpg",
+          "caption": "Foto: Noticias RCN",
+          "title": "Hallan cuerpo en estado de descomposición en Soacha"
+        },
+        "restriction": "free",
+        "subtype": "normal",
+        "template": "default",
+        "is_breaking": false,
+        "gallery": null,
+        "seo_text": "",
+        "publish_date": "2026-06-05T07:10:00Z",
+        "additional_fields": {}
+      }
+    ]
+  }
+}

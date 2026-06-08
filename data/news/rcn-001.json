@@ -1,0 +1,88 @@
+{
+  "id": "rcn-001",
+  "section": {
+    "name": "Soacha",
+    "url": "/colombia",
+    "about": ""
+  },
+  "author": {
+    "name": "Valentina Bernal",
+    "url": "",
+    "image": ""
+  },
+  "title": "VIDEO | Fuerte olor permitió hallar un cuerpo en avanzado estado de descomposición en Soacha",
+  "description": "Bomberos tuvieron que realizar una apertura forzada del inmueble tras la alerta.",
+  "url": "/colombia/fuerte-olor-permitio-hallar-un-cuerpo-en-soacha/rcn-001/story/",
+  "image": {
+    "url": "http://localhost:3000/static/images/rcn-001.jpg",
+    "caption": "Foto: Noticias RCN",
+    "title": "Hallan cuerpo en estado de descomposición en Soacha"
+  },
+  "restriction": "free",
+  "subtype": "normal",
+  "template": "default",
+  "is_breaking": false,
+  "gallery": null,
+  "seo_text": "",
+  "publish_date": "2026-06-05T07:10:00Z",
+  "display_date": "2026-06-05T07:10:00Z",
+  "last_updated_date": "2026-06-05T07:10:00Z",
+  "tags": [],
+  "content_elements": [
+    {
+      "type": "text",
+      "content": "Un inquietante hallazgo se registró en el municipio de Soacha, Cundinamarca, luego de que residentes de un conjunto residencial alertaran a las autoridades por un fuerte olor que salía de uno de los apartamentos."
+    },
+    {
+      "type": "text",
+      "content": "La situación obligó la intervención del Cuerpo Oficial de Bomberos de Soacha y de la Policía Nacional."
+    },
+    {
+      "type": "header",
+      "content": "<h2>Hallan cuerpo en estado de descomposición en apartamento de Soacha</h2>"
+    },
+    {
+      "type": "image",
+      "url": "http://localhost:3000/static/images/rcn-001.jpg",
+      "content": "Foto: Noticias RCN",
+      "caption": "Foto: Noticias RCN"
+    },
+    {
+      "type": "text",
+      "content": "De acuerdo con el reporte oficial del Cuerpo de Bomberos de Soacha, la emergencia fue reportada en el conjunto residencial El Sándalo, ubicado en Ciudad Verde, comuna 3 del municipio."
+    },
+    {
+      "type": "text",
+      "content": "Los residentes comenzaron a percibir un fuerte olor que provenía de uno de los apartamentos de la torre 12, por lo que dieron aviso a las autoridades."
+    },
+    {
+      "type": "header",
+      "content": "<h2>¿Qué encontraron las autoridades dentro del apartamento?</h2>"
+    },
+    {
+      "type": "text",
+      "content": "Tras llegar al lugar y contar con la autorización del administrador del conjunto residencial, los organismos de emergencia realizaron la apertura forzada de la puerta principal del apartamento 503."
+    },
+    {
+      "type": "text",
+      "content": "Durante la inspección inicial, los uniformados confirmaron la presencia de un cuerpo sin vida en la habitación principal del inmueble."
+    },
+    {
+      "type": "header",
+      "content": "<h2>¿Dónde fue hallado el cuerpo en descomposición?</h2>"
+    },
+    {
+      "type": "text",
+      "content": "El procedimiento se desarrolló en un conjunto residencial ubicado sobre la Transversal 24B con calle 17, en el sector de Ciudad Verde, una de las zonas residenciales más pobladas de Soacha."
+    },
+    {
+      "type": "text",
+      "content": "Por el momento, las autoridades no han revelado la identidad de la persona encontrada ni las posibles causas de su muerte."
+    }
+  ],
+  "media_video": null,
+  "media_gallery": null,
+  "display_audio_player": false,
+  "components": [],
+  "content_urls": []
+}

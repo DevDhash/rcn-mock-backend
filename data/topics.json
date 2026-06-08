@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Colombia",
+    "topic": "colombia",
+    "description": ""
+  },
+  {
+    "name": "Mundo",
+    "topic": "mundo",
+    "description": ""
+  },
+  {
+    "name": "Política",
+    "topic": "politica",
+    "description": ""
+  },
+  {
+    "name": "Deportes",
+    "topic": "deportes",
+    "description": ""
+  },
+  {
+    "name": "Economía",
+    "topic": "economia",
+    "description": ""
+  }
+]
