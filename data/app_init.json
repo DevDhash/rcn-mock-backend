@@ -79,10 +79,10 @@
           "css": "body { background-color: #ffffff; color: #000000; }"
         },
         "logos": {
-  "logo_loader": "http://localhost:3000/static/logos/rcn-logo.jpeg",
-  "logo_loader_bg": "http://localhost:3000/static/logos/rcn-logo.jpeg",
-  "logo_menu": "http://localhost:3000/static/logos/rcn-logo.jpeg",
-  "logo": "http://localhost:3000/static/logos/rcn-logo.jpeg"
+  "logo_loader": "https://rcn-mock-backend.onrender.com/static/logos/rcn-logo.jpeg",
+  "logo_loader_bg": "https://rcn-mock-backend.onrender.com/static/logos/rcn-logo.jpeg",
+  "logo_menu": "https://rcn-mock-backend.onrender.com/static/logos/rcn-logo.jpeg",
+  "logo": "https://rcn-mock-backend.onrender.com/static/logos/rcn-logo.jpeg"
 }
       },
       {

@@ -14,7 +14,7 @@
   "description": "La audiencia de imputación con medida de aseguramiento está programada para el próximo martes 9 de junio.",
   "url": "/colombia/fiscalia-cito-a-blessd-a-audiencia-de-imputacion/rcn-002/story/",
   "image": {
-    "url": "http://localhost:3000/static/images/rcn-002.jpg",
+    "url": "https://rcn-mock-backend.onrender.com/static/images/rcn-002.jpg",
     "caption": "Foto: AFP",
     "title": "Fiscalía citó a Blessd a audiencia de imputación"
   },
@@ -43,7 +43,7 @@
     },
     {
       "type": "image",
-      "url": "http://localhost:3000/static/images/rcn-002.jpg",
+      "url": "https://rcn-mock-backend.onrender.com/static/images/rcn-002.jpg",
       "content": "Foto: AFP",
       "caption": "Foto: AFP"
     },

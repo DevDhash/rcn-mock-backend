@@ -14,7 +14,7 @@
   "description": "Un mes después de una emergencia que cobró la vida de nueve trabajadores, una nueva explosión se registró en un socavón.",
   "url": "/colombia/explosion-en-mina-de-carbon-de-sutatausa/rcn-003/story/",
   "image": {
-    "url": "http://localhost:3000/static/images/rcn-003.jpg",
+    "url": "https://rcn-mock-backend.onrender.com/static/images/rcn-003.jpg",
     "caption": "Foto: Noticias RCN",
     "title": "Explosión en mina de carbón de Sutatausa"
   },
@@ -43,7 +43,7 @@
     },
     {
       "type": "image",
-      "url": "http://localhost:3000/static/images/rcn-003.jpg",
+      "url": "https://rcn-mock-backend.onrender.com/static/images/rcn-003.jpg",
       "content": "Foto: Noticias RCN",
       "caption": "Foto: Noticias RCN"
     },

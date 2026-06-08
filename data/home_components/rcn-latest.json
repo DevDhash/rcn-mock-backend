@@ -24,7 +24,7 @@
         "description": "Bomberos tuvieron que realizar una apertura forzada del inmueble tras la alerta.",
         "url": "/colombia/fuerte-olor-permitio-hallar-un-cuerpo-en-soacha/rcn-001/story/",
         "image": {
-          "url": "http://localhost:3000/static/images/rcn-001.jpg",
+          "url": "https://rcn-mock-backend.onrender.com/static/images/rcn-001.jpg",
           "caption": "Foto: Noticias RCN",
           "title": "Hallan cuerpo en estado de descomposición en Soacha"
         },
@@ -53,7 +53,7 @@
         "description": "La audiencia de imputación con medida de aseguramiento está programada para el próximo martes 9 de junio.",
         "url": "/colombia/fiscalia-cito-a-blessd-a-audiencia-de-imputacion/rcn-002/story/",
         "image": {
-          "url": "http://localhost:3000/static/images/rcn-002.jpg",
+          "url": "https://rcn-mock-backend.onrender.com/static/images/rcn-002.jpg",
           "caption": "Foto: AFP",
           "title": "Fiscalía citó a Blessd a audiencia de imputación"
         },
@@ -82,7 +82,7 @@
         "description": "Un mes después de una emergencia que cobró la vida de nueve trabajadores, una nueva explosión se registró en un socavón.",
         "url": "/colombia/explosion-en-mina-de-carbon-de-sutatausa-deja-un-muerto/rcn-003/story/",
         "image": {
-          "url": "http://localhost:3000/static/images/rcn-003.jpg",
+          "url": "https://rcn-mock-backend.onrender.com/static/images/rcn-003.jpg",
           "caption": "Foto: Noticias RCN",
           "title": "Explosión en mina de carbón de Sutatausa"
         },

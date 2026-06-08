@@ -24,7 +24,7 @@
         "description": "Bomberos tuvieron que realizar una apertura forzada del inmueble tras la alerta.",
         "url": "/colombia/fuerte-olor-permitio-hallar-un-cuerpo-en-soacha/rcn-001/story/",
         "image": {
-          "url": "http://localhost:3000/static/images/rcn-001.jpg",
+          "url": "https://rcn-mock-backend.onrender.com/static/images/rcn-001.jpg",
           "caption": "Foto: Noticias RCN",
           "title": "Hallan cuerpo en estado de descomposición en Soacha"
         },
